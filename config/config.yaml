@@ -88,6 +88,7 @@ report:
   mode: "current"
   display_mode: "keyword"
   sort_by_position_first: false
+  html: true
 
 display:
   title: "Web3 村长情报局"
